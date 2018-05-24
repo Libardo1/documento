@@ -8,56 +8,58 @@
 \contentsline {subsection}{\numberline {2.1.1}Par densidad - potencial gravitacional de galaxias tipo disco}{4}
 \contentsline {subsubsection}{\nonumberline Potencial de Miyamoto-Nagai}{5}
 \contentsline {subsubsection}{\nonumberline Potencial de disco exponencial}{6}
-\contentsline {subsubsection}{\nonumberline Potencial de Navarro-Frenk-White}{11}
-\contentsline {subsubsection}{\nonumberline Potencial de Burkert}{15}
-\contentsline {subsection}{\numberline {2.1.2}Velocidad circular}{17}
-\contentsline {subsubsection}{\nonumberline Potencial de Miyamoto-Nagai}{17}
-\contentsline {subsubsection}{\nonumberline Potencial disco exponencial}{17}
-\contentsline {subsubsection}{\nonumberline Potencial de Burkert}{17}
+\contentsline {subsubsection}{\nonumberline Potencial de Navarro-Frenk-White}{13}
+\contentsline {subsubsection}{\nonumberline Potencial de Burkert}{14}
+\contentsline {subsection}{\numberline {2.1.2}Velocidad circular}{16}
+\contentsline {subsubsection}{\nonumberline Potencial de Miyamoto-Nagai}{16}
+\contentsline {subsubsection}{\nonumberline Potencial disco exponencial}{18}
+\contentsline {subsubsection}{\nonumberline Potencial de Burkert}{18}
 \contentsline {subsubsection}{\nonumberline Potencial de Navarro-Frenk-White \cite {B15}}{18}
 \contentsline {section}{\numberline {2.2}Funci\IeC {\'o}n de distribuci\IeC {\'o}n}{18}
 \contentsline {section}{\numberline {2.3}La ecuaci\IeC {\'o}n de Boltzmann sin colisiones}{19}
 \contentsline {subsection}{\numberline {2.3.1}Teoremas de Jeans}{20}
-\contentsline {subsubsection}{\nonumberline Teorema de Jeans}{20}
+\contentsline {subsubsection}{\nonumberline Teorema de Jeans}{21}
 \contentsline {subsubsection}{\nonumberline Teorema de Jeans - forma fuerte}{21}
 \contentsline {subsection}{\numberline {2.3.2}Tipos de funciones de distribuci\IeC {\'o}n}{21}
 \contentsline {subsubsection}{\nonumberline Dependiendo solo del hamiltoniano $H$}{21}
-\contentsline {subsubsection}{\nonumberline Dependiendo de $H$ y el momento angular $L$}{21}
-\contentsline {subsubsection}{\nonumberline Para sistemas esf\IeC {\'e}ricos}{22}
+\contentsline {subsubsection}{\nonumberline Dependiendo de $H$ y el momento angular $L$}{22}
+\contentsline {subsubsection}{\nonumberline Para sistemas esf\IeC {\'e}ricos}{23}
 \contentsline {section}{\numberline {2.4}Ecuaciones de Jeans}{25}
 \contentsline {section}{\numberline {2.5}Ecuaciones de Jeans en coordenadas esf\IeC {\'e}ricas y cil\IeC {\'\i }ndricas}{26}
 \contentsline {subsection}{\numberline {2.5.1}El par\IeC {\'a}metro $\beta $ de anisotrop\IeC {\'\i }a}{26}
 \contentsline {subsection}{\numberline {2.5.2}Ecuaciones de Jeans en sistemas esf\IeC {\'e}ricos}{27}
-\contentsline {subsection}{\numberline {2.5.3}Ecuaciones de Jeans en coordenadas cil\IeC {\'\i }ndricas}{29}
-\contentsline {section}{\numberline {2.6}Modelamiento din\IeC {\'a}mico con simetr\IeC {\'\i }a axial - \emph {Jeans Anisotropic Models} (JAM)}{29}
-\contentsline {subsection}{\numberline {2.6.1}M\IeC {\'e}todo de Expansi\IeC {\'o}n Multi-Gaussiano (MGE)}{31}
-\contentsline {subsection}{\numberline {2.6.2}Convoluci\IeC {\'o}n con la PSF}{33}
-\contentsline {subsection}{\numberline {2.6.3}M\IeC {\'e}todo MGE aplicado sobre las ecuaciones de Jeans axialmente sim\IeC {\'e}tricas}{33}
-\contentsline {subsection}{\numberline {2.6.4}Integraci\IeC {\'o}n en la l\IeC {\'\i }nea de visi\IeC {\'o}n del segundo momento de la velocidad}{35}
+\contentsline {subsection}{\numberline {2.5.3}Ecuaciones de Jeans en coordenadas cil\IeC {\'\i }ndricas}{28}
+\contentsline {section}{\numberline {2.6}Modelamiento din\IeC {\'a}mico con simetr\IeC {\'\i }a axial - \emph {Jeans Anisotropic Models} (JAM)}{28}
+\contentsline {subsection}{\numberline {2.6.1}M\IeC {\'e}todo de Expansi\IeC {\'o}n Multi-Gaussiano (MGE)}{30}
+\contentsline {subsection}{\numberline {2.6.2}Convoluci\IeC {\'o}n con la PSF}{31}
+\contentsline {subsection}{\numberline {2.6.3}M\IeC {\'e}todo MGE aplicado sobre las ecuaciones de Jeans axialmente sim\IeC {\'e}tricas}{32}
+\contentsline {subsection}{\numberline {2.6.4}Integraci\IeC {\'o}n en la l\IeC {\'\i }nea de visi\IeC {\'o}n del segundo momento de la velocidad}{33}
 \contentsline {section}{\numberline {2.7}Modelamiento din\IeC {\'a}mico con simetr\IeC {\'\i }a esf\IeC {\'e}rica - \emph {Jeans Anisotropic Models} (JAM)}{36}
-\contentsline {subsection}{\numberline {2.7.1}Soluci\IeC {\'o}n general}{38}
-\contentsline {subsection}{\numberline {2.7.2}M\IeC {\'e}todo MGE aplicado sobre las ecuaciones de Jeans esf\IeC {\'e}ricamente sim\IeC {\'e}tricas}{39}
-\contentsline {section}{\numberline {2.8}\emph {Software} disponible}{40}
-\contentsline {subsection}{\numberline {2.8.1}galpy}{40}
-\contentsline {subsection}{\numberline {2.8.2}GalRotpy}{40}
-\contentsline {subsection}{\numberline {2.8.3}lenstronomy - GalKin}{43}
-\contentsline {subsection}{\numberline {2.8.4}Kinemetry}{45}
-\contentsline {subsection}{\numberline {2.8.5}M\IeC {\'e}todo de modelamiento din\IeC {\'a}mico JAM}{45}
-\contentsline {subsection}{\numberline {2.8.6}MGE - Expansi\IeC {\'o}n multi-gaussiana}{46}
-\contentsline {chapter}{\numberline {3}Lentes gravitacionales}{48}
-\contentsline {section}{\numberline {3.1}Consideraciones cosmol\IeC {\'o}gicas}{48}
-\contentsline {subsection}{\numberline {3.1.1}Distancia diametral angular}{49}
-\contentsline {section}{\numberline {3.2}La ecuaci\IeC {\'o}n de lente}{51}
-\contentsline {section}{\numberline {3.3}Modelos de lente}{53}
-\contentsline {subsection}{\numberline {3.3.1}Modelos libres de escala}{53}
-\contentsline {subsubsection}{\nonumberline M\IeC {\'e}todo de expansi\IeC {\'o}n en serie de Fourier}{53}
-\contentsline {subsubsection}{\nonumberline Las posiciones de las im\IeC {\'a}genes y los flujos}{54}
-\contentsline {subsubsection}{\nonumberline Ajuste al modelo}{54}
-\contentsline {chapter}{\numberline {4}M\IeC {\'e}todos de din\IeC {\'a}mica gal\IeC {\'a}ctica y lentes gravitacionales para estimaci\IeC {\'o}n de masas}{57}
-\contentsline {chapter}{\numberline {5}Cap\'{\i }tulo ...}{58}
-\contentsline {chapter}{\numberline {6}Conclusiones y recomendaciones}{59}
-\contentsline {section}{\numberline {6.1}Conclusiones}{59}
-\contentsline {section}{\numberline {6.2}Recomendaciones}{59}
-\contentsline {chapter}{\numberline {A}Anexo: Potencial gravitacional de un disco delgado}{60}
-\contentsline {chapter}{\numberline {B}Anexo: Nombrar el anexo B de acuerdo con su contenido}{61}
-\contentsline {chapter}{\numberline {C}Anexo: Nombrar el anexo C de acuerdo con su contenido}{62}
+\contentsline {subsection}{\numberline {2.7.1}Soluci\IeC {\'o}n general}{36}
+\contentsline {subsection}{\numberline {2.7.2}M\IeC {\'e}todo MGE aplicado sobre las ecuaciones de Jeans esf\IeC {\'e}ricamente sim\IeC {\'e}tricas}{37}
+\contentsline {section}{\numberline {2.8}\emph {Software} disponible}{38}
+\contentsline {subsection}{\numberline {2.8.1}galpy}{38}
+\contentsline {subsection}{\numberline {2.8.2}GalRotpy}{39}
+\contentsline {subsection}{\numberline {2.8.3}lenstronomy - GalKin}{41}
+\contentsline {subsection}{\numberline {2.8.4}Kinemetry}{44}
+\contentsline {subsection}{\numberline {2.8.5}M\IeC {\'e}todo de modelamiento din\IeC {\'a}mico JAM}{44}
+\contentsline {subsection}{\numberline {2.8.6}MGE - Expansi\IeC {\'o}n multi-gaussiana}{45}
+\contentsline {subsection}{\numberline {2.8.7}CAULDRON}{45}
+\contentsline {chapter}{\numberline {3}Lentes gravitacionales}{46}
+\contentsline {section}{\numberline {3.1}Consideraciones cosmol\IeC {\'o}gicas}{46}
+\contentsline {subsection}{\numberline {3.1.1}Distancia diametral angular}{47}
+\contentsline {section}{\numberline {3.2}La ecuaci\IeC {\'o}n de lente}{49}
+\contentsline {section}{\numberline {3.3}Modelos de lente}{51}
+\contentsline {subsection}{\numberline {3.3.1}Modelos libres de escala}{51}
+\contentsline {subsubsection}{\nonumberline M\IeC {\'e}todo de expansi\IeC {\'o}n en serie de Fourier}{52}
+\contentsline {subsubsection}{\nonumberline Las posiciones de las im\IeC {\'a}genes y los flujos}{52}
+\contentsline {subsubsection}{\nonumberline Ajuste al modelo}{52}
+\contentsline {chapter}{\numberline {4}M\IeC {\'e}todos de din\IeC {\'a}mica gal\IeC {\'a}ctica y lentes gravitacionales para estimaci\IeC {\'o}n de masas}{55}
+\contentsline {chapter}{\numberline {5}Cap\'{\i }tulo ...}{56}
+\contentsline {chapter}{\numberline {6}Conclusiones y recomendaciones}{57}
+\contentsline {section}{\numberline {6.1}Conclusiones}{57}
+\contentsline {section}{\numberline {6.2}Recomendaciones}{57}
+\contentsline {chapter}{\numberline {A}Anexo: Potencial gravitacional de un disco delgado}{58}
+\contentsline {subsubsection}{\nonumberline Transformada de Hankel}{59}
+\contentsline {chapter}{\numberline {B}Anexo: Ecuaciones de Jeans en sistemas esf\IeC {\'e}ricos}{62}
+\contentsline {chapter}{\numberline {C}Anexo: Nombrar el anexo C de acuerdo con su contenido}{64}

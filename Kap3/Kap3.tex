@@ -20,7 +20,7 @@ con $$ \rho_c = \frac{3H_0^2}{8\pi G}. $$
 
 Otros parámetros útiles en términos de materia barionica y no barionica son:\\
 
-y \textbf{El parámetro de densidad de los campos de vacío}, o la energía oscura:
+y \textbf{el parámetro de densidad de los campos de vacío}, o la energía oscura:
 
 \begin{eqnarray}
 \Omega_{\Lambda} = \frac{8\pi G \rho_v}{3 H_0^2} = \frac{\Lambda}{3H_0^2},
@@ -138,7 +138,7 @@ donde la densidad crítica $\Sigma_{crit}$ es la densidad de masa que ...
 Los modelos libres de escala con ley de potencias, con una disminución arbitraria en la parte exterior de la curva de rotación, tienen la característica que sus isofotas tienen la misma forma en cada radio y están completamente descritas por una función de forma $G(\theta)$. Ésta función depende solo del ángulo de posición $\theta$ con respecto al eje mayor. Esta descripción permite expresar el potencial de deflexión de la luz $\phi$ y la convergencia $\kappa$ proporcionales a $r$:
 
 \begin{eqnarray}
-\kappa &=& \frac{1}{2} G(\theta) r{\beta-2}, \\
+\kappa &=& \frac{1}{2} G(\theta) r^{\beta-2}, \\
 \phi &=& r^{\beta} F(\theta)
 \end{eqnarray}
 
@@ -151,7 +151,23 @@ Bajo este modelo la función de forma $G(\theta)$ puede ser escrita como:
 G(\theta) = \beta^2 F(\theta) + F''(\theta), 
 \end{equation}
 
-donde dada una función $G(\theta)$ se puede hallar $F(\theta)$ solucionando la ecuación diferencial. Esto permite encontrar el potencial libre de escala correspondiente a un conjunto de contornos de igual densidad libres de escala \cite{EV03}.
+donde dada una función $G(\theta)$ se puede hallar $F(\theta)$ solucionando la ecuación diferencial. Esto permite encontrar el potencial libre de escala correspondiente a un conjunto de contornos de igual densidad libres de escala \cite{EV03}.\\
+
+De acuerdo a este modelo, la densidad superficial está dada por:
+
+\begin{equation}
+\Sigma(R', \theta') = \frac{\Sigma_c}{2} \left( \alpha^2 F(\theta ') + \frac{\partial ^2}{\partial \theta '^2} F(\theta ')  \right) R '^{\alpha - 2},
+\end{equation}
+
+y por lo tanto integrando en la variable $\theta$ se tiene la masa proyectada encerrada en la curva crítica dada por $R_{crit}$:
+
+\begin{equation}
+    M_{crit} =\Sigma_{crit} \int_0^{2\pi} \frac{1}{2\beta} \left[ \beta^2 F(\beta) + F''(\theta) R_{crit}(\theta)^{\beta} \right] d\theta.
+\end{equation}
+
+La masa en el radio de Einstein es entonces:
+
+
 
 
 \subsubsection{Método de expansión en serie de Fourier}

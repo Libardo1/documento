@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.5.22)  22 MAY 2018 19:42
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2016.5.22)  24 MAY 2018 17:30
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -991,14 +991,15 @@ Package tocbasic Info: Using my definition of `\numberline' on input line 49.
 Package tocbasic Info: Using my definition of `\numberline' on input line 50.
 Package tocbasic Info: Using my definition of `\numberline' on input line 51.
 Package tocbasic Info: Using my definition of `\numberline' on input line 52.
-Package tocbasic Info: Using my definition of `\numberline' on input line 56.
+Package tocbasic Info: Using my definition of `\numberline' on input line 53.
 Package tocbasic Info: Using my definition of `\numberline' on input line 57.
 Package tocbasic Info: Using my definition of `\numberline' on input line 58.
 Package tocbasic Info: Using my definition of `\numberline' on input line 59.
 Package tocbasic Info: Using my definition of `\numberline' on input line 60.
 Package tocbasic Info: Using my definition of `\numberline' on input line 61.
 Package tocbasic Info: Using my definition of `\numberline' on input line 62.
-Package tocbasic Info: Using my definition of `\numberline' on input line 63.
+Package tocbasic Info: Using my definition of `\numberline' on input line 64.
+Package tocbasic Info: Using my definition of `\numberline' on input line 65.
 )
 \tf@toc=\write3
 \openout3 = `TesisMSc.toc'.
@@ -1269,12 +1270,13 @@ LaTeX Warning: Citation `BT' on page 10 undefined on input line 170.
 
 LaTeX Warning: Citation `C93' on page 10 undefined on input line 170.
 
-
-LaTeX Warning: Citation `Freeman' on page 10 undefined on input line 172.
-
-LaTeX Info: Redefining \. on input line 176.
-LaTeX Info: Redefining \% on input line 176.
+LaTeX Info: Redefining \. on input line 172.
+LaTeX Info: Redefining \% on input line 172.
 [10]
+
+LaTeX Warning: Citation `Freeman' on page 11 undefined on input line 172.
+
+
 Underfull \hbox (badness 10000) in paragraph at lines 178--179
 
  []
@@ -1327,483 +1329,487 @@ LaTeX Warning: Citation `Bosch' on page 13 undefined on input line 235.
 
 LaTeX Warning: Citation `S16' on page 13 undefined on input line 254.
 
-<Kap2/NFW_Amp.pdf, id=355, 722.7pt x 505.89pt>
+LaTeX Info: Redefining \. on input line 255.
+LaTeX Info: Redefining \% on input line 255.
+[13] <Kap2/NFW_Amp.pdf, id=358, 722.7pt x 505.89pt>
 File: Kap2/NFW_Amp.pdf Graphic file (type pdf)
  <use Kap2/NFW_Amp.pdf>
 Package pdftex.def Info: Kap2/NFW_Amp.pdf used on input line 258.
 (pdftex.def)             Requested size: 375.57779pt x 262.90219pt.
 
-<Kap2/NFW_a.pdf, id=356, 722.7pt x 505.89pt>
+<Kap2/NFW_a.pdf, id=359, 722.7pt x 505.89pt>
 File: Kap2/NFW_a.pdf Graphic file (type pdf)
  <use Kap2/NFW_a.pdf>
 Package pdftex.def Info: Kap2/NFW_a.pdf used on input line 259.
 (pdftex.def)             Requested size: 375.57779pt x 262.90219pt.
 
 
-LaTeX Warning: Citation `Burkert95' on page 13 undefined on input line 266.
+LaTeX Warning: Citation `Burkert95' on page 14 undefined on input line 266.
 
-LaTeX Info: Redefining \. on input line 267.
-LaTeX Info: Redefining \% on input line 267.
-[13]
-LaTeX Info: Redefining \. on input line 267.
-LaTeX Info: Redefining \% on input line 267.
- [14 <./Kap2/NFW_Amp.pdf> <./Kap2/NFW_a.pdf
 
-pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./Kap2/NFW_a.pdf): PDF inclu
-sion: multiple pdfs with page group included in a single page
->]
 Underfull \hbox (badness 10000) in paragraph at lines 271--273
 
  []
 
 
-LaTeX Warning: Citation `L17' on page 15 undefined on input line 274.
+LaTeX Warning: Citation `L17' on page 14 undefined on input line 274.
 
 
-LaTeX Warning: Citation `Burkert95' on page 15 undefined on input line 274.
+LaTeX Warning: Citation `Burkert95' on page 14 undefined on input line 274.
 
 
-LaTeX Warning: Citation `S00' on page 15 undefined on input line 281.
+LaTeX Warning: Citation `S00' on page 14 undefined on input line 281.
 
 
-LaTeX Warning: Citation `Burkert95' on page 15 undefined on input line 281.
+LaTeX Warning: Citation `Burkert95' on page 14 undefined on input line 281.
 
-<Kap2/BK_Amp.pdf, id=432, 722.7pt x 505.89pt>
+LaTeX Info: Redefining \. on input line 290.
+LaTeX Info: Redefining \% on input line 290.
+[14]
+LaTeX Info: Redefining \. on input line 290.
+LaTeX Info: Redefining \% on input line 290.
+ [15 <./Kap2/NFW_Amp.pdf> <./Kap2/NFW_a.pdf
+
+pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./Kap2/NFW_a.pdf): PDF inclu
+sion: multiple pdfs with page group included in a single page
+>] <Kap2/BK_Amp.pdf, id=436, 722.7pt x 505.89pt>
 File: Kap2/BK_Amp.pdf Graphic file (type pdf)
  <use Kap2/BK_Amp.pdf>
 Package pdftex.def Info: Kap2/BK_Amp.pdf used on input line 293.
 (pdftex.def)             Requested size: 375.57779pt x 262.90219pt.
 
-<Kap2/BK_r.pdf, id=433, 722.7pt x 505.89pt>
+<Kap2/BK_r.pdf, id=437, 722.7pt x 505.89pt>
 File: Kap2/BK_r.pdf Graphic file (type pdf)
  <use Kap2/BK_r.pdf>
 Package pdftex.def Info: Kap2/BK_r.pdf used on input line 294.
 (pdftex.def)             Requested size: 375.57779pt x 262.90219pt.
-LaTeX Info: Redefining \. on input line 306.
-LaTeX Info: Redefining \% on input line 306.
- [15]
-LaTeX Info: Redefining \. on input line 306.
-LaTeX Info: Redefining \% on input line 306.
- [16 <./Kap2/BK_Amp.pdf> <./Kap2/BK_r.pdf
+
+
+LaTeX Warning: Citation `BT' on page 16 undefined on input line 326.
+
+LaTeX Info: Redefining \. on input line 336.
+LaTeX Info: Redefining \% on input line 336.
+[16]
+LaTeX Info: Redefining \. on input line 336.
+LaTeX Info: Redefining \% on input line 336.
+ [17 <./Kap2/BK_Amp.pdf> <./Kap2/BK_r.pdf
 
 pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./Kap2/BK_r.pdf): PDF inclus
 ion: multiple pdfs with page group included in a single page
 >]
 
-LaTeX Warning: Citation `BT' on page 17 undefined on input line 322.
+LaTeX Warning: Citation `B15' on page 18 undefined on input line 345.
 
-
-LaTeX Warning: Citation `B15' on page 17 undefined on input line 341.
-
-LaTeX Info: Redefining \. on input line 344.
-LaTeX Info: Redefining \% on input line 344.
-[17]
-LaTeX Info: Redefining \. on input line 399.
-LaTeX Info: Redefining \% on input line 399.
- [18]
-LaTeX Info: Redefining \. on input line 439.
-LaTeX Info: Redefining \% on input line 439.
+LaTeX Info: Redefining \. on input line 370.
+LaTeX Info: Redefining \% on input line 370.
+[18]
+LaTeX Info: Redefining \. on input line 432.
+LaTeX Info: Redefining \% on input line 432.
  [19]
 
-LaTeX Warning: Citation `BT08' on page 20 undefined on input line 469.
+LaTeX Warning: Citation `BT08' on page 20 undefined on input line 473.
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 475--476
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 477--478
-
- []
-
-LaTeX Info: Redefining \. on input line 478.
-LaTeX Info: Redefining \% on input line 478.
+LaTeX Info: Redefining \. on input line 476.
+LaTeX Info: Redefining \% on input line 476.
 [20]
+Underfull \hbox (badness 10000) in paragraph at lines 479--480
 
-LaTeX Warning: Citation `BT08' on page 21 undefined on input line 479.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 481--482
+
+ []
+
+
+LaTeX Warning: Citation `BT08' on page 21 undefined on input line 483.
 
 LaTeX Info: Redefining \. on input line 507.
 LaTeX Info: Redefining \% on input line 507.
 [21]
-Underfull \hbox (badness 10000) in paragraph at lines 542--543
+Underfull \hbox (badness 10000) in paragraph at lines 546--547
 
  []
 
-LaTeX Info: Redefining \. on input line 544.
-LaTeX Info: Redefining \% on input line 544.
+LaTeX Info: Redefining \. on input line 547.
+LaTeX Info: Redefining \% on input line 547.
 [22]
-Underfull \hbox (badness 10000) in paragraph at lines 558--560
+Underfull \hbox (badness 10000) in paragraph at lines 562--564
 
  []
 
-
-LaTeX Warning: Citation `BT08' on page 23 undefined on input line 589.
-
-LaTeX Info: Redefining \. on input line 597.
-LaTeX Info: Redefining \% on input line 597.
+LaTeX Info: Redefining \. on input line 591.
+LaTeX Info: Redefining \% on input line 591.
 [23]
-Underfull \hbox (badness 10000) in paragraph at lines 602--603
+
+LaTeX Warning: Citation `BT08' on page 24 undefined on input line 593.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 606--607
 
  []
 
 
-LaTeX Warning: Citation `BT08' on page 24 undefined on input line 608.
+LaTeX Warning: Citation `BT08' on page 24 undefined on input line 612.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 619--620
+Underfull \hbox (badness 10000) in paragraph at lines 623--624
 
  []
 
 
-LaTeX Warning: Citation `BT08' on page 24 undefined on input line 621.
+LaTeX Warning: Citation `BT08' on page 24 undefined on input line 625.
 
-LaTeX Info: Redefining \. on input line 638.
-LaTeX Info: Redefining \% on input line 638.
+LaTeX Info: Redefining \. on input line 639.
+LaTeX Info: Redefining \% on input line 639.
 [24]
-Underfull \hbox (badness 10000) in paragraph at lines 656--657
+Underfull \hbox (badness 10000) in paragraph at lines 660--661
 
  []
 
-LaTeX Info: Redefining \. on input line 678.
-LaTeX Info: Redefining \% on input line 678.
+LaTeX Info: Redefining \. on input line 682.
+LaTeX Info: Redefining \% on input line 682.
 [25]
-LaTeX Info: Redefining \. on input line 722.
-LaTeX Info: Redefining \% on input line 722.
+LaTeX Info: Redefining \. on input line 726.
+LaTeX Info: Redefining \% on input line 726.
  [26]
-Underfull \vbox (badness 10000) has occurred while \output is active []
+Underfull \hbox (badness 10000) in paragraph at lines 740--741
 
-LaTeX Info: Redefining \. on input line 757.
-LaTeX Info: Redefining \% on input line 757.
- [27]
-LaTeX Info: Redefining \. on input line 787.
-LaTeX Info: Redefining \% on input line 787.
+ []
 
-[28]
+LaTeX Info: Redefining \. on input line 768.
+LaTeX Info: Redefining \% on input line 768.
+[27]
 
 LaTeX Font Warning: Font shape `OT1/cmss/bx/it' undefined
-(Font)              using `OT1/cmss/bx/n' instead on input line 816.
+(Font)              using `OT1/cmss/bx/n' instead on input line 783.
 
 
-LaTeX Warning: Citation `2008MNRAS.390_71C' on page 29 undefined on input line 
-818.
+LaTeX Warning: Citation `2008MNRAS.390_71C' on page 28 undefined on input line 
+785.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 818--819
+Underfull \hbox (badness 10000) in paragraph at lines 785--786
 
  []
 
-LaTeX Info: Redefining \. on input line 824.
-LaTeX Info: Redefining \% on input line 824.
-[29] <Kap2/ellipsoid.png, id=552, 693.59125pt x 461.725pt>
+<Kap2/ellipsoid.png, id=545, 693.59125pt x 461.725pt>
 File: Kap2/ellipsoid.png Graphic file (type png)
-
-<use Kap2/ellipsoid.png>
-Package pdftex.def Info: Kap2/ellipsoid.png used on input line 829.
+ <use Kap2/ellipsoid.png>
+Package pdftex.def Info: Kap2/ellipsoid.png used on input line 796.
 (pdftex.def)             Requested size: 375.57779pt x 250.03232pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 835--836
+Underfull \hbox (badness 10000) in paragraph at lines 802--803
 
  []
 
-LaTeX Info: Redefining \. on input line 848.
-LaTeX Info: Redefining \% on input line 848.
-[30 <./Kap2/ellipsoid.png>]
-LaTeX Info: Redefining \. on input line 891.
-LaTeX Info: Redefining \% on input line 891.
- [31]
-Underfull \hbox (badness 10000) in paragraph at lines 894--895
+LaTeX Info: Redefining \. on input line 809.
+LaTeX Info: Redefining \% on input line 809.
+[28]
+LaTeX Info: Redefining \. on input line 832.
+LaTeX Info: Redefining \% on input line 832.
+ [29 <./Kap2/ellipsoid.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 861--862
+
+ []
+
+LaTeX Info: Redefining \. on input line 874.
+LaTeX Info: Redefining \% on input line 874.
+[30]
+Underfull \hbox (badness 10000) in paragraph at lines 885--886
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 918--919
+Underfull \hbox (badness 10000) in paragraph at lines 888--889
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 921--922
+Underfull \hbox (badness 10000) in paragraph at lines 901--902
 
  []
 
-LaTeX Info: Redefining \. on input line 928.
-LaTeX Info: Redefining \% on input line 928.
+LaTeX Info: Redefining \. on input line 911.
+LaTeX Info: Redefining \% on input line 911.
+[31]
+
+LaTeX Warning: Citation `2008MNRAS.390_71C' on page 32 undefined on input line 
+918.
+
+
+LaTeX Warning: Citation `2008MNRAS.390_71C' on page 32 undefined on input line 
+936.
+
+LaTeX Info: Redefining \. on input line 941.
+LaTeX Info: Redefining \% on input line 941.
 [32]
-Underfull \hbox (badness 10000) in paragraph at lines 934--935
+Underfull \hbox (badness 10000) in paragraph at lines 953--954
 
  []
 
 
-LaTeX Warning: Citation `2008MNRAS.390_71C' on page 33 undefined on input line 
-951.
+LaTeX Warning: Citation `TR16' on page 33 undefined on input line 955.
 
-LaTeX Info: Redefining \. on input line 962.
-LaTeX Info: Redefining \% on input line 962.
+
+Underfull \hbox (badness 10000) in paragraph at lines 955--956
+
+ []
+
+LaTeX Info: Redefining \. on input line 983.
+LaTeX Info: Redefining \% on input line 983.
 [33]
 
 LaTeX Warning: Citation `2008MNRAS.390_71C' on page 34 undefined on input line 
-969.
+994.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 986--987
-
- []
-
-
-LaTeX Warning: Citation `TR16' on page 34 undefined on input line 988.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 988--989
-
- []
-
-LaTeX Info: Redefining \. on input line 989.
-LaTeX Info: Redefining \% on input line 989.
-[34]
-
-LaTeX Warning: Citation `2008MNRAS.390_71C' on page 35 undefined on input line 
-1027.
-
-LaTeX Info: Redefining \. on input line 1035.
-LaTeX Info: Redefining \% on input line 1035.
-[35]
-Underfull \hbox (badness 10000) in paragraph at lines 1044--1045
+Underfull \hbox (badness 10000) in paragraph at lines 1011--1012
 
  []
 
 
-LaTeX Warning: Citation `2008MNRAS.390_71C' on page 36 undefined on input line 
-1047.
+LaTeX Warning: Citation `2008MNRAS.390_71C' on page 34 undefined on input line 
+1014.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1047--1048
+Underfull \hbox (badness 10000) in paragraph at lines 1014--1015
 
  []
 
-<Kap2/NGC2974_1.png, id=573, 834.11626pt x 724.7075pt>
+<Kap2/NGC2974_1.png, id=567, 834.11626pt x 724.7075pt>
 File: Kap2/NGC2974_1.png Graphic file (type png)
 
 <use Kap2/NGC2974_1.png>
-Package pdftex.def Info: Kap2/NGC2974_1.png used on input line 1052.
+Package pdftex.def Info: Kap2/NGC2974_1.png used on input line 1019.
 (pdftex.def)             Requested size: 211.26027pt x 183.54286pt.
 
-<Kap2/NGC2974_2.png, id=574, 793.96625pt x 732.7375pt>
+<Kap2/NGC2974_2.png, id=568, 793.96625pt x 732.7375pt>
 File: Kap2/NGC2974_2.png Graphic file (type png)
 
 <use Kap2/NGC2974_2.png>
-Package pdftex.def Info: Kap2/NGC2974_2.png used on input line 1053.
+Package pdftex.def Info: Kap2/NGC2974_2.png used on input line 1020.
 (pdftex.def)             Requested size: 211.26027pt x 194.96834pt.
 
 
-LaTeX Warning: Citation `2008MNRAS.390_71C' on page 36 undefined on input line 
-1054.
+LaTeX Warning: Citation `2008MNRAS.390_71C' on page 34 undefined on input line 
+1021.
 
 
-LaTeX Warning: Citation `2008MNRAS.390_71C' on page 36 undefined on input line 
-1054.
+LaTeX Warning: Citation `2008MNRAS.390_71C' on page 34 undefined on input line 
+1021.
 
-<Kap2/NGC2974_3.png, id=575, 1266.7325pt x 304.13625pt>
+LaTeX Info: Redefining \. on input line 1026.
+LaTeX Info: Redefining \% on input line 1026.
+[34] <Kap2/NGC2974_3.png, id=572, 1266.7325pt x 304.13625pt>
 File: Kap2/NGC2974_3.png Graphic file (type png)
 
 <use Kap2/NGC2974_3.png>
-Package pdftex.def Info: Kap2/NGC2974_3.png used on input line 1062.
+Package pdftex.def Info: Kap2/NGC2974_3.png used on input line 1029.
 (pdftex.def)             Requested size: 445.9955pt x 107.08041pt.
 
 
-LaTeX Warning: Citation `2008MNRAS.390_71C' on page 36 undefined on input line 
-1063.
+LaTeX Warning: Citation `2008MNRAS.390_71C' on page 35 undefined on input line 
+1030.
 
 
-LaTeX Warning: Citation `2008MNRAS.390_71C' on page 36 undefined on input line 
-1063.
+LaTeX Warning: Citation `2008MNRAS.390_71C' on page 35 undefined on input line 
+1030.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1070--1071
-
- []
-
-
-LaTeX Warning: Citation `2008MNRAS.390_71C' on page 36 undefined on input line 
-1072.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1072--1073
+Underfull \hbox (badness 10000) in paragraph at lines 1037--1038
 
  []
 
-LaTeX Info: Redefining \. on input line 1073.
-LaTeX Info: Redefining \% on input line 1073.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+LaTeX Info: Redefining \. on input line 1038.
+LaTeX Info: Redefining \% on input line 1038.
+ [35 <./Kap2/NGC2974_1.png> <./Kap2/NGC2974_2.png> <./Kap2/NGC2974_3.png>]
+
+LaTeX Warning: Citation `2008MNRAS.390_71C' on page 36 undefined on input line 
+1039.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1039--1040
+
+ []
+
+LaTeX Info: Redefining \. on input line 1070.
+LaTeX Info: Redefining \% on input line 1070.
 [36]
-LaTeX Info: Redefining \. on input line 1073.
-LaTeX Info: Redefining \% on input line 1073.
- [37 <./Kap2/NGC2974_1.png> <./Kap2/NGC2974_2.png> <./Kap2/NGC2974_3.png>]
-LaTeX Info: Redefining \. on input line 1107.
-LaTeX Info: Redefining \% on input line 1107.
+Underfull \hbox (badness 10000) in paragraph at lines 1109--1110
 
-[38]
+ []
+
+LaTeX Info: Redefining \. on input line 1110.
+LaTeX Info: Redefining \% on input line 1110.
+[37]
+
+LaTeX Warning: Citation `B15' on page 38 undefined on input line 1130.
+
+<Kap2/Bulge.pdf, id=585, 462.52798pt x 346.89601pt>
+File: Kap2/Bulge.pdf Graphic file (type pdf)
+ <use Kap2/Bulge.pdf>
+Package pdftex.def Info: Kap2/Bulge.pdf used on input line 1134.
+(pdftex.def)             Requested size: 187.78531pt x 140.84146pt.
+
+<Kap2/TnDisk.pdf, id=586, 462.52798pt x 346.89601pt>
+File: Kap2/TnDisk.pdf Graphic file (type pdf)
+ <use Kap2/TnDisk.pdf>
+Package pdftex.def Info: Kap2/TnDisk.pdf used on input line 1135.
+(pdftex.def)             Requested size: 187.78531pt x 140.84146pt.
+
 Underfull \hbox (badness 10000) in paragraph at lines 1142--1143
 
  []
 
-LaTeX Info: Redefining \. on input line 1152.
-LaTeX Info: Redefining \% on input line 1152.
-[39]
-
-LaTeX Warning: Citation `B15' on page 40 undefined on input line 1163.
-
-<Kap2/Bulge.pdf, id=592, 462.52798pt x 346.89601pt>
-File: Kap2/Bulge.pdf Graphic file (type pdf)
- <use Kap2/Bulge.pdf>
-Package pdftex.def Info: Kap2/Bulge.pdf used on input line 1167.
-(pdftex.def)             Requested size: 187.78531pt x 140.84146pt.
-
-<Kap2/TnDisk.pdf, id=593, 462.52798pt x 346.89601pt>
-File: Kap2/TnDisk.pdf Graphic file (type pdf)
- <use Kap2/TnDisk.pdf>
-Package pdftex.def Info: Kap2/TnDisk.pdf used on input line 1168.
-(pdftex.def)             Requested size: 187.78531pt x 140.84146pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 1175--1176
+LaTeX Info: Redefining \. on input line 1143.
+LaTeX Info: Redefining \% on input line 1143.
+[38]
+Underfull \hbox (badness 10000) in paragraph at lines 1146--1147
 
  []
 
-LaTeX Info: Redefining \. on input line 1178.
-LaTeX Info: Redefining \% on input line 1178.
-[40]
-Underfull \hbox (badness 10000) in paragraph at lines 1179--1180
-
- []
-
-<Kap2/curve_RotPy.pdf, id=598, 922.16518pt x 519.62129pt>
+<Kap2/curve_RotPy.pdf, id=591, 922.16518pt x 519.62129pt>
 File: Kap2/curve_RotPy.pdf Graphic file (type pdf)
 
 <use Kap2/curve_RotPy.pdf>
-Package pdftex.def Info: Kap2/curve_RotPy.pdf used on input line 1186.
+Package pdftex.def Info: Kap2/curve_RotPy.pdf used on input line 1153.
 (pdftex.def)             Requested size: 187.78531pt x 329.42462pt.
 File: Kap2/curve_RotPy.pdf Graphic file (type pdf)
  <use Kap2/curve_RotPy.pdf>
-Package pdftex.def Info: Kap2/curve_RotPy.pdf used on input line 1187.
+Package pdftex.def Info: Kap2/curve_RotPy.pdf used on input line 1154.
 (pdftex.def)             Requested size: 281.68513pt x 234.78679pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 1192--1193
+Underfull \hbox (badness 10000) in paragraph at lines 1159--1160
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1196--1197
+Underfull \hbox (badness 10000) in paragraph at lines 1163--1164
 
  []
 
-
-LaTeX Warning: Citation `2017arXiv170501665G' on page 41 undefined on input lin
-e 1198.
-
-LaTeX Info: Redefining \. on input line 1203.
-LaTeX Info: Redefining \% on input line 1203.
-[41 <./Kap2/Bulge.pdf> <./Kap2/TnDisk.pdf
+LaTeX Info: Redefining \. on input line 1164.
+LaTeX Info: Redefining \% on input line 1164.
+[39 <./Kap2/Bulge.pdf> <./Kap2/TnDisk.pdf
 
 pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./Kap2/TnDisk.pdf): PDF incl
 usion: multiple pdfs with page group included in a single page
 >]
-LaTeX Info: Redefining \. on input line 1203.
-LaTeX Info: Redefining \% on input line 1203.
- [42 <./Kap2/curve_RotPy.pdf>]
+LaTeX Info: Redefining \. on input line 1164.
+LaTeX Info: Redefining \% on input line 1164.
+ [40 <./Kap2/curve_RotPy.pdf>]
+
+LaTeX Warning: Citation `2017arXiv170501665G' on page 41 undefined on input lin
+e 1165.
+
 File: Kap2/curve_RotPy.pdf Graphic file (type pdf)
- <use Kap2/curve_RotPy.pdf>
-Package pdftex.def Info: Kap2/curve_RotPy.pdf used on input line 1213.
+<use Kap2/curve_RotPy.pdf>
+Package pdftex.def Info: Kap2/curve_RotPy.pdf used on input line 1180.
 (pdftex.def)             Requested size: 469.47046pt x 264.53555pt.
 
-<Kap2/M33_rot_curve.pdf, id=727, 922.16518pt x 519.62129pt>
+<Kap2/M33_rot_curve.pdf, id=721, 922.16518pt x 519.62129pt>
 File: Kap2/M33_rot_curve.pdf Graphic file (type pdf)
 
 <use Kap2/M33_rot_curve.pdf>
-Package pdftex.def Info: Kap2/M33_rot_curve.pdf used on input line 1221.
+Package pdftex.def Info: Kap2/M33_rot_curve.pdf used on input line 1188.
 (pdftex.def)             Requested size: 469.47046pt x 264.53555pt.
 
-<Kap2/M33_Burkert.pdf, id=728, 922.16518pt x 519.62129pt>
+<Kap2/M33_Burkert.pdf, id=722, 922.16518pt x 519.62129pt>
 File: Kap2/M33_Burkert.pdf Graphic file (type pdf)
 
 <use Kap2/M33_Burkert.pdf>
-Package pdftex.def Info: Kap2/M33_Burkert.pdf used on input line 1222.
+Package pdftex.def Info: Kap2/M33_Burkert.pdf used on input line 1189.
 (pdftex.def)             Requested size: 469.47046pt x 264.53555pt.
 
 
-LaTeX Warning: Citation `C14' on page 43 undefined on input line 1223.
+LaTeX Warning: Citation `C14' on page 41 undefined on input line 1190.
 
 
-LaTeX Warning: Citation `C14' on page 43 undefined on input line 1223.
+LaTeX Warning: Citation `C14' on page 41 undefined on input line 1190.
 
 
-LaTeX Warning: Citation `BI15' on page 43 undefined on input line 1239.
+LaTeX Warning: Citation `BI15' on page 41 undefined on input line 1206.
 
-LaTeX Info: Redefining \. on input line 1240.
-LaTeX Info: Redefining \% on input line 1240.
-[43]
-LaTeX Info: Redefining \. on input line 1240.
-LaTeX Info: Redefining \% on input line 1240.
- [44 <./Kap2/M33_rot_curve.pdf> <./Kap2/M33_Burkert.pdf
+LaTeX Info: Redefining \. on input line 1212.
+LaTeX Info: Redefining \% on input line 1212.
+[41]
+
+LaTeX Warning: Citation `2006MNRAS.366..787K' on page 42 undefined on input lin
+e 1220.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1220--1221
+
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+LaTeX Info: Redefining \. on input line 1221.
+LaTeX Info: Redefining \% on input line 1221.
+ [42]
+LaTeX Info: Redefining \. on input line 1221.
+LaTeX Info: Redefining \% on input line 1221.
+
+[43 <./Kap2/M33_rot_curve.pdf> <./Kap2/M33_Burkert.pdf
 
 pdfTeX warning: /Library/TeX/texbin/pdflatex (file ./Kap2/M33_Burkert.pdf): PDF
  inclusion: multiple pdfs with page group included in a single page
 >]
-
-LaTeX Warning: Citation `2006MNRAS.366..787K' on page 45 undefined on input lin
-e 1253.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1253--1254
+Underfull \hbox (badness 10000) in paragraph at lines 1227--1228
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1260--1261
-
- []
-
-LaTeX Info: Redefining \. on input line 1261.
-LaTeX Info: Redefining \% on input line 1261.
-[45]
-Underfull \hbox (badness 10000) in paragraph at lines 1262--1263
+Underfull \hbox (badness 10000) in paragraph at lines 1229--1230
 
  []
 
 
-LaTeX Warning: Citation `C02' on page 46 undefined on input line 1280.
+LaTeX Warning: Citation `C02' on page 44 undefined on input line 1247.
 
+LaTeX Info: Redefining \. on input line 1248.
+LaTeX Info: Redefining \% on input line 1248.
+[44]
 
-LaTeX Warning: Citation `TR16' on page 46 undefined on input line 1282.
+LaTeX Warning: Citation `TR16' on page 45 undefined on input line 1249.
 
-<Kap2/J1331.png, id=884, 624.3325pt x 625.33624pt>
+<Kap2/J1331.png, id=880, 624.3325pt x 625.33624pt>
 File: Kap2/J1331.png Graphic file (type png)
  <use Kap2/J1331.png>
-Package pdftex.def Info: Kap2/J1331.png used on input line 1286.
+Package pdftex.def Info: Kap2/J1331.png used on input line 1253.
 (pdftex.def)             Requested size: 211.26027pt x 211.60007pt.
 
-<Kap2/MGE_1.png, id=885, 627.34375pt x 631.35875pt>
+<Kap2/MGE_1.png, id=881, 627.34375pt x 631.35875pt>
 File: Kap2/MGE_1.png Graphic file (type png)
  <use Kap2/MGE_1.png>
-Package pdftex.def Info: Kap2/MGE_1.png used on input line 1287.
+Package pdftex.def Info: Kap2/MGE_1.png used on input line 1254.
 (pdftex.def)             Requested size: 211.26027pt x 212.61678pt.
 
 
-LaTeX Warning: Citation `TR16' on page 46 undefined on input line 1288.
+LaTeX Warning: Citation `TR16' on page 45 undefined on input line 1255.
 
 
-LaTeX Warning: Citation `TR16' on page 46 undefined on input line 1288.
+LaTeX Warning: Citation `TR16' on page 45 undefined on input line 1255.
+
+
+LaTeX Warning: Citation `2007ApJ...666..726B' on page 45 undefined on input lin
+e 1262.
 
 )
 LaTeX Info: Redefining \. on input line 20.
 LaTeX Info: Redefining \% on input line 20.
- [46]
-LaTeX Info: Redefining \. on input line 20.
-LaTeX Info: Redefining \% on input line 20.
- [47 <./Kap2/J1331.png> <./Kap2/MGE_1.png>]
+ [45 <./Kap2/J1331.png> <./Kap2/MGE_1.png>]
 \openout2 = `Kap3/Kap3.aux'.
 
  (./Kap3/Kap3.tex
 chapter 3.
 
-LaTeX Warning: Citation `2008gafo.book.....L' on page 48 undefined on input lin
+LaTeX Warning: Citation `2008gafo.book.....L' on page 46 undefined on input lin
 e 5.
 
 
@@ -1821,7 +1827,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 29--30
 
  []
 
-[48
+[46
 
 
 
@@ -1830,21 +1836,21 @@ Underfull \hbox (badness 10000) in paragraph at lines 37--38
 
  []
 
-<Kap3/d_A.png, id=897, 763.85374pt x 560.0925pt>
+<Kap3/d_A.png, id=891, 763.85374pt x 560.0925pt>
 File: Kap3/d_A.png Graphic file (type png)
  <use Kap3/d_A.png>
 Package pdftex.def Info: Kap3/d_A.png used on input line 66.
 (pdftex.def)             Requested size: 422.52054pt x 309.81236pt.
 
 
-LaTeX Warning: Citation `CA10' on page 49 undefined on input line 71.
+LaTeX Warning: Citation `CA10' on page 47 undefined on input line 71.
 
 LaTeX Info: Redefining \. on input line 75.
 LaTeX Info: Redefining \% on input line 75.
-[49]
+[47]
 LaTeX Info: Redefining \. on input line 75.
 LaTeX Info: Redefining \% on input line 75.
- [50 <./Kap3/d_A.png>]
+ [48 <./Kap3/d_A.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 97--98
 
  []
@@ -1854,7 +1860,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 99--100
 
  []
 
-<Kap3/grav_lens_1.png, id=905, 578.16pt x 774.895pt>
+<Kap3/grav_lens_1.png, id=899, 578.16pt x 774.895pt>
 File: Kap3/grav_lens_1.png Graphic file (type png)
 
 <use Kap3/grav_lens_1.png>
@@ -1862,78 +1868,82 @@ Package pdftex.def Info: Kap3/grav_lens_1.png used on input line 103.
 (pdftex.def)             Requested size: 187.78531pt x 251.68417pt.
 
 
-LaTeX Warning: Citation `SN92' on page 51 undefined on input line 104.
+LaTeX Warning: Citation `SN92' on page 49 undefined on input line 104.
 
 
-LaTeX Warning: Citation `SN92' on page 51 undefined on input line 104.
+LaTeX Warning: Citation `SN92' on page 49 undefined on input line 104.
 
 LaTeX Info: Redefining \. on input line 115.
 LaTeX Info: Redefining \% on input line 115.
-[51]
+[49]
 LaTeX Info: Redefining \. on input line 139.
 LaTeX Info: Redefining \% on input line 139.
- [52 <./Kap3/grav_lens_1.png>]
+ [50 <./Kap3/grav_lens_1.png>]
 Underfull \hbox (badness 10000) in paragraph at lines 145--146
 
  []
 
 
-LaTeX Warning: Citation `EV03' on page 53 undefined on input line 154.
+LaTeX Warning: Citation `EV03' on page 51 undefined on input line 154.
 
-LaTeX Info: Redefining \. on input line 176.
-LaTeX Info: Redefining \% on input line 176.
-[53]
-Underfull \hbox (badness 10000) in paragraph at lines 186--187
+
+Underfull \hbox (badness 10000) in paragraph at lines 154--155
+
+ []
+
+LaTeX Info: Redefining \. on input line 181.
+LaTeX Info: Redefining \% on input line 181.
+[51]
+Underfull \hbox (badness 10000) in paragraph at lines 202--203
 
  []
 
 
-LaTeX Warning: Citation `TR16' on page 54 undefined on input line 203.
+LaTeX Warning: Citation `TR16' on page 52 undefined on input line 219.
+
+LaTeX Info: Redefining \. on input line 221.
+LaTeX Info: Redefining \% on input line 221.
+[52]
+Underfull \hbox (badness 10000) in paragraph at lines 240--241
+
+ []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 224--225
+LaTeX Warning: Citation `TR16' on page 53 undefined on input line 242.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 248--249
 
  []
 
 
-LaTeX Warning: Citation `TR16' on page 54 undefined on input line 226.
+LaTeX Warning: Citation `TR16' on page 53 undefined on input line 250.
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 232--233
-
- []
-
-LaTeX Info: Redefining \. on input line 233.
-LaTeX Info: Redefining \% on input line 233.
-[54]
-
-LaTeX Warning: Citation `TR16' on page 55 undefined on input line 234.
-
-<Kap3/lens_model.png, id=921, 590.205pt x 589.20125pt>
+<Kap3/lens_model.png, id=915, 590.205pt x 589.20125pt>
 File: Kap3/lens_model.png Graphic file (type png)
 
 <use Kap3/lens_model.png>
-Package pdftex.def Info: Kap3/lens_model.png used on input line 238.
+Package pdftex.def Info: Kap3/lens_model.png used on input line 254.
 (pdftex.def)             Requested size: 375.57779pt x 374.94777pt.
 
 
-LaTeX Warning: Citation `TR16' on page 55 undefined on input line 239.
+LaTeX Warning: Citation `TR16' on page 53 undefined on input line 255.
 
 
-LaTeX Warning: Citation `TR16' on page 55 undefined on input line 239.
+LaTeX Warning: Citation `TR16' on page 53 undefined on input line 255.
 
 )
 LaTeX Info: Redefining \. on input line 21.
 LaTeX Info: Redefining \% on input line 21.
- [55]
+ [53]
 LaTeX Info: Redefining \. on input line 21.
 LaTeX Info: Redefining \% on input line 21.
- [56 <./Kap3/lens_model.png>]
+ [54 <./Kap3/lens_model.png>]
 \openout2 = `Kap4/Kap4.aux'.
 
  (./Kap4/Kap4.tex
 chapter 4.
-) [57
+) [55
 
 
 
@@ -1942,7 +1952,7 @@ chapter 4.
 
  (./Kap5/Kap5.tex
 chapter 5.
-) [58
+) [56
 
 
 
@@ -1961,7 +1971,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 6--24
 
  []
 
-[59
+[57
 
 
 
@@ -1971,47 +1981,70 @@ Underfull \hbox (badness 10000) in paragraph at lines 6--24
  (./Anexos/Anexos.tex
 chapter A.
 
-LaTeX Warning: Reference `laplace_eq_disk' on page 60 undefined on input line 1
-6.
+Overfull \hbox (68.6204pt too wide) in paragraph at lines 26--27
+[]\OT1/cmr/m/n/12 Esta ecua-ci^^Son di-fe-ren-cial pa-ra $\OML/cmm/m/it/12 Z\OT
+1/cmr/m/n/12 (\OML/cmm/m/it/12 z\OT1/cmr/m/n/12 )$ en el dis-co del-ga-do tie-n
+e con-di-cio-nes de fron-te-ra $^^H(\OML/cmm/m/it/12 R; \OMS/cmsy/m/n/12 1\OT1/
+cmr/m/n/12 )\OML/cmm/m/it/12 ; \OT1/cmr/m/n/12 ^^H(\OML/cmm/m/it/12 R; \OMS/cms
+y/m/n/12 ^^@1\OT1/cmr/m/n/12 ) \OMS/cmsy/m/n/12 !
+ []
 
-[60
+[58
 
 
 
 ]
-chapter B.
-
-Underfull \hbox (badness 10000) in paragraph at lines 33--34
+Underfull \hbox (badness 10000) in paragraph at lines 44--45
 
  []
 
-[61
 
-]
+Underfull \hbox (badness 10000) in paragraph at lines 66--67
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 68--69
+
+ []
+
+[59] <Anexos/disk_surface.png, id=939, 1278.7775pt x 664.4825pt>
+File: Anexos/disk_surface.png Graphic file (type png)
+
+<use Anexos/disk_surface.png>
+Package pdftex.def Info: Anexos/disk_surface.png used on input line 81.
+(pdftex.def)             Requested size: 375.57779pt x 195.1588pt.
+LaTeX Info: Redefining \. on input line 97.
+LaTeX Info: Redefining \% on input line 97.
+ [60 <./Anexos/disk_surface.png>] [61]
+chapter B.
+[62
+
+] [63]
 chapter C.
 
-Underfull \hbox (badness 10000) in paragraph at lines 36--37
+Underfull \hbox (badness 10000) in paragraph at lines 171--172
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 38--39
+Underfull \hbox (badness 10000) in paragraph at lines 173--174
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 40--41
+Underfull \hbox (badness 10000) in paragraph at lines 175--176
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 47--47
+Underfull \hbox (badness 10000) in paragraph at lines 182--182
 []|\OT1/cmr/m/n/12 American Psy-cho-lo-gi-cal As-so-cia-tion
  []
 
-[62
+[64
 
-]) [63]
+]) [65]
 No file TesisMSc.bbl.
 (./TesisMSc.aux (./HojaTitulo/HojaTituloMSc.aux)
 LaTeX Info: Redefining \. on input line 8.
@@ -2031,10 +2064,10 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 6748 strings out of 493014
- 102463 string characters out of 6133351
- 281402 words of memory out of 5000000
- 10037 multiletter control sequences out of 15000+600000
+ 6759 strings out of 493014
+ 102680 string characters out of 6133351
+ 281464 words of memory out of 5000000
+ 10047 multiletter control sequences out of 15000+600000
  19509 words of font info for 68 fonts, out of 8000000 for 9000
  1151 hyphenation exceptions out of 8191
  47i,18n,66p,8514b,536s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -2059,10 +2092,10 @@ e/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/local/texlive/
 2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/20
 16/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/local/texlive/201
 6/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
-Output written on TesisMSc.pdf (79 pages, 3588709 bytes).
+Output written on TesisMSc.pdf (81 pages, 3654633 bytes).
 PDF statistics:
- 1022 PDF objects out of 1200 (max. 8388607)
- 440 compressed objects within 5 object streams
+ 1030 PDF objects out of 1200 (max. 8388607)
+ 444 compressed objects within 5 object streams
  0 named destinations out of 1000 (max. 500000)
- 148 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 153 words of extra memory for PDF output out of 10000 (max. 10000000)
 

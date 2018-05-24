@@ -120,7 +120,7 @@ con  $\Sigma(R)$ un modelo arbitrario de densidad superficial observado. La ecua
   \label{fig:Fig_Galaxy_Spheroid}
 \end{figure}
 
-Ahora, siguiendo el método de separar la \textbf{ecuación de Laplace} en coordenadas cilíndricas y usando el Teorema de Gauss para obtener un par $\Sigma, \Phi$ como está detallado en \cite{C93}:
+Ahora, siguiendo el método de separar la \textbf{ecuación de Laplace} en coordenadas cilíndricas y usando el Teorema de Gauss para obtener un par $\Sigma, \Phi$ como está detallado en \cite{C93} el Anexo A:
 
 \begin{eqnarray*}
 \Sigma_k (R) &=& \frac{k}{2\pi} J_0 (kR) \\
@@ -298,7 +298,11 @@ Una propiedad interesante del perfil de Burkert está dado por la ley isoterma (
 
 \subsection{Velocidad circular}
 
-La velocidad circular está descrita por
+La velocidad $v_c$ a la que una estrella mantiene una órbita circular de radio $R$ con centro en el centro de la galaxia de potencial gravitacional $\Phi$, y asumiendo que el potencial es simétrico en torno al centro, es denominado \textbf{velocidad circular} y está relacionada con la aceleración radial del cuerpo $a_r$ por:
+
+$$ a_r = \frac{\partial \Phi }{\partial R} = \frac{v_c^2}{R}, $$
+
+esto es, la velocidad está descrita por el potencial de la forma:
 
 \begin{equation}
 \label{CV1}
@@ -609,11 +613,11 @@ donde $K$ es una constante y $\gamma$ es la razón de calores específicos princ
 
 $$ \frac{d p}{dr} = -\rho \frac{d\Phi}{dr}   \hspace{1 cm},\hspace{1 cm}  \rho^{\gamma - 1} = \frac{\gamma - 1}{K \gamma} \Psi  $$
 
-que relaciona la densidad con el potencial gravitacional, y en analogía con la ecuación (\ref{dens_psi_ergodic}) se obtiene la relación entre $\gamma$ y $n$:
+que relaciona la densidad con el potencial gravitacional, y en analogía con la ecuación (\ref{dens_psi_ergodic}) se obtiene la relación entre $\gamma$, $n$ y los coeficientes de la ecuación (\ref{dens_psi_ergodic}):
 
 \begin{equation}
 \label{gamma_n}
- \gamma = 1+\frac{1}{n}
+ \gamma = 1+\frac{1}{n} \hspace{1cm} , \hspace{1cm}   c_n = \left (  \frac{\gamma - 1}{K \gamma}  \right )^{1/(\gamma - 1)},
 \end{equation}
 
 por lo tanto la distribución de densidad de un sistema estelar ergódico con una función de distribución dada por una ley de potencias, es la misma que para una esfera de gas politropico con $\gamma$ dado por (\ref{gamma_n}).\\
@@ -717,60 +721,23 @@ donde $\beta (r)$ describe la estructura orbital del sistema estelar. $\beta = 0
 
 \subsection{Ecuaciones de Jeans en sistemas esféricos}
 
-Partiendo de las coordenadas esféricas polares y momentos canónicamente conjugados:
-
-\begin{align*}
-\textbf{q} &= (r, \theta, \phi) \\
-\textbf{p} &= (p_r, p_\theta, p_\phi) \\
-p_r &= v_r,  & d p_r &= d v_r \\
-p_\theta &= r v_\theta,  & d p_\theta &= r d v_\theta \\
-p_\phi &= r sin \theta v_\phi,  & d p_\phi &= r sin \theta d v_\phi \\
-\int d^3 p f &= \int d p_r d p_\theta d p_\phi f = r^2 sin \theta \int d^3 v  f = r^2 sin \theta \nu \\
-\frac{\partial }{ \partial p_r} (p_r f) &= f + p_r \frac{\partial f}{\partial p_r} \\
-\frac{\partial }{\partial p_r} (p_r f) - f &= p_r \frac{\partial f}{\partial p_r}
-\end{align*}
-
-
-con el Hamiltoniano (\ref{Hamiltonian_potential}):
+Escribiendo la ecuación de Vlasov y el Hamiltoniano en coordenadas esféricas polares como se detalla en el Anexo B, se tiene:
 
 \begin{equation}
 H = \frac{1}{2} \left [ p_r^2 + \left ( \frac{1}{r} p_\theta  \right )^2 + \left ( \frac{1}{r sin \theta} p_\phi  \right )^2 \right ] + \Psi (r),
 \end{equation}
 
-la ecuación de Boltzmann en coordenadas generalizadas (\ref{Boltzmann_eq_gener}) es:
-
 \begin{equation}
 p_r \frac{\partial f}{\partial r} + \frac{p_\theta}{r^2} \frac{\partial f}{\partial \theta} - \left ( \frac{d \Psi}{d r}  - \frac{p_\theta^2}{r^3} - \frac{p_\phi^2}{r^3 sin^2\theta} \right ) \frac{\partial f}{\partial p_r} + \frac{p_\phi^2 cos \theta}{r^2 sin^3\theta} \frac{\partial f}{\partial p_\theta} = 0
 \end{equation}
 
-donde se ha asumido que el sistema es esférico e independiente del tiempo. Luego, multiplicando por $p_r$ e integrando en todos los momentos canónicamente conjugados, se tiene que cada término de la integral es:
-
-\begin{align}
-\int p_r^2 d^3 p \frac{\partial f}{\partial r} &= \frac{\partial }{\partial r} \int p_r^2 d^3 p f = \frac{\partial }{\partial r} (r^2 sin \theta \nu \overline{p_r^2}) \\
-\int p_r \frac{p_\theta}{r^2} d^3 p \frac{\partial f}{\partial \theta} &= \int v_r r v_\theta \frac{1}{r^2} r^2 d^3 v \frac{\partial }{\partial \theta} = r sin \theta \frac{\partial }{\partial \theta} \int v_r v_\theta d^3v f \\
-& = r sin \theta \frac{\partial }{\partial \theta} (\overline{v_r v_\theta } \nu) = sin \theta \frac{\partial }{\partial \theta} (\overline{p_r p_\theta } \nu) \\
-\int d^3 p \left ( \frac{d \Psi}{d r}  - \frac{p_\theta^2}{r^3} - \frac{p_\phi^2}{r^3 sin^2\theta} \right ) p_r \frac{\partial f}{\partial p_r} & = \int  d^3 p \left ( \frac{d \Psi}{d r} - \frac{p_\theta^2}{r^3} - \frac{p_\phi^2}{r^3 sin^2\theta} \right ) \left [ \frac{\partial }{\partial p_r} (p_r f) - f \right ] \\
-\label{Boltzmann_third_int}
-& = \int  d^3 p \left ( \frac{d \Psi}{d r} - \frac{p_\theta^2}{r^3} - \frac{p_\phi^2}{r^3 sin^2\theta} \right ) \frac{\partial }{\partial p_r} (p_r f)\\
-&- \int  d^3 p \left ( \frac{d \Psi}{d r} - \frac{p_\theta^2}{r^3} - \frac{p_\phi^2}{r^3 sin^2\theta} \right ) f \\
-& = \nu r^2 sin \theta \left ( \frac{d \Psi}{d r} - \frac{ \overline{p_\theta^2} }{r^3} - \frac{ \overline{p_\phi^2} }{r^3 sin^2\theta} \right )
-\end{align}
-
-donde, por el teorema de la divergencia (\ref{Div_teorem}) se tiene que la función de distribución en (\ref{Boltzmann_third_int}) se anula en la superficie $S$ donde las velocidades son muy grandes. De esta forma:
+entonces las ecuación de Jeans radial es:
 
 \begin{equation}
-\frac{\partial }{\partial r} (r^2 sin \theta \nu \overline{p_r^2}) + sin \theta \frac{\partial }{\partial \theta} (\overline{p_r p_\theta } \nu) + \nu r^2 sin \theta \left ( \frac{d \Psi}{d r} - \frac{ \overline{p_\theta^2} }{r^3} - \frac{ \overline{p_\phi^2} }{r^3 sin^2\theta} \right ) = 0.
+\frac{d (\nu \overline{v_r^2})}{dr}  + 2 \frac{\beta}{r} \nu \overline{v_r^2} = - \nu \frac{d \Psi}{d r}
 \end{equation}
 
-Por la misma razón que la velocidad media en (\ref{Mean_vel}) se anula, el término $\overline{v_r v_\theta}$ en la ecuación anterior se anula. Dividiendo entre $r^2 sin \theta$ y volviendo a las velocidades se obtiene que:
-
-\begin{align}
-\frac{d (\nu \overline{v_r^2})}{dr} + \nu \left ( \frac{d \Psi}{d r} + \frac{2 \overline{v_r^2}-\overline{v_\theta^2}-\overline{v_\phi^2}}{r} \right ) & = 0 \\
-\frac{d (\nu \overline{v_r^2})}{dr}  + 2 \frac{\beta}{r} \nu \overline{v_r^2} & = - \nu \frac{d \Psi}{d r}
-\end{align}
-
-con el parámetro de anisotropía de acuerdo a (\ref{Vel_anisotropy}).
-
+con el parámetro de anisotropía de acuerdo a (\ref{Vel_anisotropy}).\\
 
 Las galaxias elípticas, esferoidales y cúmulos de galaxias son sistemas que se pueden describir por la ecuación de Jeans esférica:
 
@@ -1290,12 +1257,9 @@ El método MGE no puede ser usado para modelar la dinámica del sistema en las r
 \end{figure}
 
 
+\subsection{CAULDRON}
 
-\begin{equation}
--------------------------------
-\end{equation}
-
-
+El algoritmo CAULDRON (Combined Lensing and Dynamics Analysis) es un marco en el cual se realiza un análisis auto consistente para unificar los resultados de obtener la distribución de masa con lente gravitacional y dinámica estelar. \cite{2007ApJ...666..726B}
 
 
 
